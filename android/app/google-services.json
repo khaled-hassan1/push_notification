@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25554000615",
+    "project_id": "abu-3mira",
+    "storage_bucket": "abu-3mira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25554000615:android:f29ba12cd22ddcf9e7e042",
+        "android_client_info": {
+          "package_name": "com.coding.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCR00BV6xyCMK1gZ5v6kjLbMQ5eCAX_VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
